@@ -1,0 +1,10 @@
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\bin\Debug\Trackbutton.exe.config
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\bin\Debug\Trackbutton.exe
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\bin\Debug\Trackbutton.pdb
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\obj\Debug\Trackbutton.csproj.AssemblyReference.cache
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\obj\Debug\Trackbutton.Form1.resources
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\obj\Debug\Trackbutton.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\obj\Debug\Trackbutton.csproj.GenerateResource.cache
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\obj\Debug\Trackbutton.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\obj\Debug\Trackbutton.exe
+C:\Users\Ucenik\Desktop\Trackbutton\Trackbutton\obj\Debug\Trackbutton.pdb
